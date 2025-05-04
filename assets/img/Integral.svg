@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="78.593597mm"
+   height="270.95779mm"
+   viewBox="0 0 278.48125 960.08667"
+   id="svg6168"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Integrale allemande.svg">
+  <title
+     id="title6733">Integrale allemande</title>
+  <defs
+     id="defs6170" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1374.2406"
+     inkscape:cy="-59.956619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1728"
+     inkscape:window-height="1089"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6173">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Integrale allemande</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1442.0977,487.68109)">
+    <g
+       transform="matrix(1.1474027,0,0,-1.1474027,-1653.9623,446.73371)"
+       inkscape:label="German_integral"
+       id="g6184"
+       style="fill:#000000;fill-opacity:1;stroke:none">
+      <g
+         id="g6186"
+         style="fill:#000000;fill-opacity:1;stroke:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6188"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 277.416,642.38 c 7.159,42.665 23.279,83.97 39.246,107.485 15.967,23.514 31.782,29.238 49.003,30.065 17.222,0.827 35.85,-3.242 44.865,-12.373 9.014,-9.13 8.415,-23.321 2.442,-35.123 -5.973,-11.802 -17.319,-21.214 -27.337,-24.73 -10.018,-3.515 -18.708,-1.133 -26.532,2.987 -7.823,4.119 -14.781,9.976 -20.201,10.983 -5.42,1.006 -9.302,-2.837 -12.36,-8.081 -3.057,-5.243 -5.288,-11.887 -5.371,-28.377 -0.083,-16.49 1.983,-42.826 3.82,-67.276 1.837,-24.449 3.444,-47.012 5.597,-102.965 2.153,-55.953 4.851,-145.296 7.078,-211.98 2.227,-66.684 3.982,-110.709 -3.176,-153.375 C 327.331,106.955 311.258,65.65 295.314,42.135 279.371,18.621 263.556,12.897 246.335,12.07 c -17.222,-0.827 -35.85,3.242 -44.865,12.373 -9.014,9.13 -8.415,23.321 -2.442,35.123 5.973,11.802 17.319,21.214 27.337,24.73 10.018,3.515 18.708,1.133 26.532,-2.987 7.823,-4.119 14.781,-9.976 20.201,-10.983 5.42,-1.006 9.302,2.837 12.36,8.081 3.057,5.243 5.288,11.887 5.371,28.377 0.083,16.49 -1.983,42.826 -3.82,67.276 -1.837,24.449 -3.444,47.012 -5.597,102.965 -2.153,55.953 -4.851,145.296 -7.102,211.98 -2.25,66.684 -4.052,110.709 3.106,153.375 z" />
+      </g>
+    </g>
+  </g>
+</svg>

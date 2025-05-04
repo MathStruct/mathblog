@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MathStruct</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content on MathStruct</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>daniel@mathstruct.org (Daniel Boigk)</managingEditor>
+    <webMaster>daniel@mathstruct.org (Daniel Boigk)</webMaster>
+    <copyright>© 2025 Daniel Boigk</copyright>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/whatisaout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>daniel@mathstruct.org (Daniel Boigk)</author>
+      <guid>http://localhost:1313/blog/whatisaout/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
