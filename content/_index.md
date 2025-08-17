@@ -1,11 +1,11 @@
 ---
-title: "Welcome to My Site"
+title: "Hello World!"
 date: 2025-05-04T10:00:00Z
 description: "This is the homepage of my Hugo-powered website."
 layout: "home"
 ---
 
-# Hello, World!
+# 
 
 ## About This Site
 
