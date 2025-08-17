@@ -9,22 +9,23 @@ layout: "home"
 
 ## About This Site
 
-Currently we are a loose collective of mainly math and computer science students at TU Chemnitz that discusses beginning our own startup. we have our monthly meetup where we discuss various topics relating to that. (but also have a general meetup on how our life and general work/interests are going.) It is in Vetterstraße 70/72 Clubroom. If you want to join please contact me (Daniel).
+We’re a loose collective of mostly math and CS students at TU Chemnitz exploring the idea of starting our own company. We meet monthly in the clubroom at Vetterstraße 70/72—partly to talk startup ideas, partly just to catch up on life and projects. If you’d like to join, reach out (Daniel).
 
-For everyone outside more is to come and once we find time we will begin seriously implementing something.
+Right now our interests circle around:
 
-Currently we are specifically interested in:
+- Extending Obsidian with richer graph structures (multi-node/edge types).
 
-- Extending Obsidian to allow multiple kind/colors of nodes/edges (Not that this is a longterm solution but now it's markdown + JSON)
-- Representing entire repositories in Code graphs with multiple underlying directed graphs (like type hierarchies, function calls). Basically we want to abolish things like namespaces, modules, repositories.
-- Building Full GraphRAG pipelines
-- Category theory, Functional Programming, Theorem Provers
-- Julia and Rust
-  - Serialization of Julia functions
-  - "Native" Databases that contain serialized objects (and functions) from programming languages.
-- Startup Topics, feasibility of our ideas, PitchDeck, B2B Marketing, Gründiungsfinanzierung.
+- Representing whole codebases as layered directed graphs (types, calls, hierarchies) to move beyond namespaces/modules/repos.
 
-The name Mathstruct comes from us thinking about maths and being very affine in this thining and since we are also good programmers we are using "struct" since that is the central object in most programming languages. Thus defining our mission of writing mathematical software.
+- Building full GraphRAG pipelines.
+
+- Category theory, FP, theorem provers.
+
+- Julia & Rust (e.g. serializing Julia functions, “native” DBs with serialized objects/functions).
+
+- Startup basics: feasibility, pitch decks, B2B, funding.
+
+The name *Mathstruct* comes from our love of math and code: “math” + “struct,” the building block in most languages—defining our mission of mathematical software.
 
 ### Featured Content
 
