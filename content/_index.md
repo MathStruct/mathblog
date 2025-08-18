@@ -9,7 +9,7 @@ layout: "home"
 
 ## About This Site
 
-We’re a loose collective of mostly math and CS students at TU Chemnitz exploring the idea of starting our own company. We meet monthly in the clubroom at Vetterstraße 70/72—partly to talk startup ideas, partly just to catch up on life and projects. If you’d like to join, reach out (Daniel).
+We’re a loose collective of mostly math and CS students at TU Chemnitz exploring the idea of starting our own company. We meet monthly in the clubroom at Vetterstraße 70/72—partly to talk startup ideas, partly just to catch up on life and projects. If you’d like to join, reach out ([Daniel](mailto:dn.boigk@gmail.com)).
 
 Right now our interests circle around:
 
